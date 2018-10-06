@@ -1,0 +1,35 @@
+<div class="bootstrap-4-grid">
+    <style scoped="scoped">
+        .grid-outline { outline: 1px solid #00ffff !important; }
+        .grid-border { border-right: 1px solid #00ffff !important; }
+        .grid-border:nth-child(1) { border-left: 1px solid #00ffff !important; }
+        @media (max-width: 767px) {
+            .grid-outline { outline: none !important; }
+        }
+    </style>
+    <div class="position-fixed m-2" style="z-index: 99999">
+        <div class="p-2 badge border border-light badge-danger d-inline-block d-sm-none">XS</div>
+        <div class="p-2 badge border border-light badge-warning d-none d-sm-inline-block d-md-none">SM</div>
+        <div class="p-2 badge border border-light badge-primary d-none d-md-inline-block d-lg-none">MD</div>
+        <div class="p-2 badge border border-light badge-success d-none d-lg-inline-block">LG</div>
+        <div class="p-2 badge border border-light badge-info" data-toggle="collapse" data-target=".bootstrap-grid-12">GRID</div>
+    </div>
+    <div class="position-fixed h-100 w-100" style="opacity: 1; z-index: 99998; pointer-events: none;">
+        <div class="container h-100">
+            <div class="row bootstrap-grid-12 collapse h-100">
+                <div class="col grid-border"><div class="h-100 grid-outline"></div></div>
+                <div class="col grid-border"><div class="h-100 grid-outline"></div></div>
+                <div class="col grid-border"><div class="h-100 grid-outline"></div></div>
+                <div class="col grid-border"><div class="h-100 grid-outline"></div></div>
+                <div class="col grid-border"><div class="h-100 grid-outline"></div></div>
+                <div class="col grid-border"><div class="h-100 grid-outline"></div></div>
+                <div class="col grid-border"><div class="h-100 grid-outline"></div></div>
+                <div class="col grid-border"><div class="h-100 grid-outline"></div></div>
+                <div class="col grid-border"><div class="h-100 grid-outline"></div></div>
+                <div class="col grid-border"><div class="h-100 grid-outline"></div></div>
+                <div class="col grid-border"><div class="h-100 grid-outline"></div></div>
+                <div class="col grid-border"><div class="h-100 grid-outline"></div></div>
+            </div>
+        </div>
+    </div>
+</div>
