@@ -10,4 +10,4 @@ Toggle <strong>GRID</strong> button in top-left corner of screen to show guides.
 Requires bootstrap.css and bootstrap.js files version 4.1 or newer.
 
 ## Example
-<img src="https://github.com/ArthurShlain/bs4-grid-guides/raw/master/example.png" alt="Example" style="width: 100%;">
+<img src="example.png" alt="Example" style="width: 100%;">
