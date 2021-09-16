@@ -3,6 +3,10 @@ Illustrator-like grid guides and breakpoint indication for Bootstrap
 
 ![image](https://user-images.githubusercontent.com/2047645/133603844-e7fe5b6e-96e9-4b9d-9102-00eaa9d3ba02.png)
 
+## Requirements
+
+Bootstrap Collapse javascript plugin or compiled `bootstrap.min.js` is required to toggle grid via button. 
+
 ## Installation
 
 1. Copy `bs4-grid-guides.css` to your project and include it in `<head>` tag:
