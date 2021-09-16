@@ -1,5 +1,5 @@
 # Bootstrap Grid Guides
-Illustrator-like grid guides for Bootstrap
+Illustrator-like grid guides and breakpoint indication for Bootstrap
 
 ![image](https://user-images.githubusercontent.com/2047645/133603844-e7fe5b6e-96e9-4b9d-9102-00eaa9d3ba02.png)
 
