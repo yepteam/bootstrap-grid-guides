@@ -1,0 +1,8 @@
+.bsgg-btn-group { bottom: 16px !important; left: 16px !important; z-index: 999999999 !important; }
+.bsgg-grid { z-index: 999999998 !important; pointer-events: none !important; }
+.bsgg-grid-outline { outline: 1px solid #00ffff !important; }
+.bsgg-grid-border { border-right: 1px solid #00ffff !important; }
+.bsgg-grid-border:nth-child(1) { border-left: 1px solid #00ffff !important; }
+@media (max-width: 767px) { .bsgg-grid-outline { outline: none !important; } }
+.bsgg-rl { border-top-left-radius: 9999rem !important; border-bottom-left-radius: 9999rem !important; }
+.bsgg-rr { border-top-right-radius: 9999rem !important; border-bottom-right-radius: 9999rem !important; }
