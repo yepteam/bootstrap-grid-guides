@@ -10,4 +10,4 @@ Toggle <strong>GRID</strong> button in bottom-left corner of screen to show guid
 Requires bootstrap.css and bootstrap.js files version 4.1 or newer.
 
 ## Example
-<img src="example.png" alt="Example" style="width: 100%;">
+![image](https://user-images.githubusercontent.com/2047645/133603844-e7fe5b6e-96e9-4b9d-9102-00eaa9d3ba02.png)
