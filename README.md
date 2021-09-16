@@ -1,4 +1,4 @@
-# bs4-grid-guides
+# Bootstrap Grid Guides
 Illustrator-like grid guides for Bootstrap 4
 
 ## How to use
