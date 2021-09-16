@@ -10,12 +10,12 @@ Illustrator-like grid guides for Bootstrap
 ```html
 <head>
   ...
-  <link rel="stylesheet" type="text/css" href="bs4-grid-guides.css">
+  <link rel="stylesheet" type="text/css" href="bootstrap-guides.css">
   ...
 </head>
 ```
 
-2. Paste content of `bs4-grid-guides.html` after your `<body>` tag.
+2. Paste content of `bootstrap-4-guides.html` or `bootstrap-5-guides.html` after your `<body>` tag.
 
 ## Usage
 
